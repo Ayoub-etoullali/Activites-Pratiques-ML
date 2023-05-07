@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Activité Pratique 👨🏻‍💻
+  # Activités Pratiques 👨🏻‍💻
   <img src="https://www.hebergeurcloud.com/wp-content/uploads/2018/07/Machine-Learning.jpg" width="50%" height="50%" alt="Python">
 
   <br><br>
